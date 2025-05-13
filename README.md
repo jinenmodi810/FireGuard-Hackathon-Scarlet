@@ -32,10 +32,15 @@ We also learned how to work as a team across data, backend, frontend, and AI mod
 Impact FireGuard is not just a wildfire risk predictor—it’s a life-saving system designed for proactive prevention and community safety. It combines deep technical work with real social utility and accessibility.
 
 This is a full-fledged end-to-end system, with real-time data, AI/ML models, and a user-first design—built with purpose.
+![img1](https://github.com/user-attachments/assets/46b3853c-bc41-4d76-9f04-0d298efe4532)
+
+![img2](https://github.com/user-attachments/assets/b3442719-129c-4f4f-8c08-d0d846d075c9)
+
+![img3](https://github.com/user-attachments/assets/c3792332-25a8-4e37-8b0a-7f0fd65b23ee)
 
 ![img4](https://github.com/user-attachments/assets/13c7bcd5-7fa6-4288-bcf7-800a5b3ab2fe)
-![img3](https://github.com/user-attachments/assets/c3792332-25a8-4e37-8b0a-7f0fd65b23ee)
-![img2](https://github.com/user-attachments/assets/b3442719-129c-4f4f-8c08-d0d846d075c9)
-![img1](https://github.com/user-attachments/assets/46b3853c-bc41-4d76-9f04-0d298efe4532)
+
+
+
 
 
